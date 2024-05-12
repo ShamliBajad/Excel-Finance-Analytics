@@ -3,9 +3,9 @@
 
 ### Project Objective:
 
-1. **Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/ShamliBajad/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/ShamliBajad/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)**: These reports aim to provide detailed insights into the financial performance of the organization over different time intervals, allowing stakeholders to monitor trends and identify areas for improvement.
+1. **Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/ShamliBajad/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/ShamliBajad/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)**: These reports aim to provide detailed insights into the financial performance of the organization over different time intervals, allowing stakeholders to monitor trends and identify areas for improvement.
 
-2. **Create Profit and Loss (P&L) reports by [Markets]()**: By segmenting P&L reports by markets, this analysis helps in evaluating the profitability of different geographic regions and guiding strategic decision-making related to resource allocation and market expansion.
+3. **Create Profit and Loss (P&L) reports by [Markets](https://github.com/ShamliBajad/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)**: By segmenting P&L reports by markets, this analysis helps in evaluating the profitability of different geographic regions and guiding strategic decision-making related to resource allocation and market expansion.
 
 ### Purpose of Finance Analytics:
 
@@ -51,7 +51,7 @@ Finance reports play a crucial role in guiding strategic decision-making and com
 
 ### Soft Skills:
 
-In addition to technical proficiency, your project also highlights several soft skills that are essential for success:
+In addition to technical proficiency, project also highlights several soft skills that are essential for success:
 
 - **Refined Understanding of Sales & Finance Reports**: Deep understanding of sales and finance reports enables you to derive actionable insights and communicate findings effectively to stakeholders.
 
