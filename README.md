@@ -49,7 +49,7 @@ Finance reports play a crucial role in guiding strategic decision-making and com
 
 6. **Utilizing DAX to Create Calculated Columns**: Competent in writing Data Analysis Expressions (DAX) to create calculated columns in Power Pivot, enabling dynamic calculations and custom metrics based on specific business requirements.
 
-### Soft Skills:
+### Skills:
 
 In addition to technical proficiency, project also highlights several soft skills that are essential for success:
 
